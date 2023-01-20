@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/view/user/UserMenu.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/model/game/GameRequest.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/view/user/RegisterForm.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/view/game/MyGameUser.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/model/game/Genre.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/controller/GameController.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/view/user/Profile.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/model/users/Admin.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/model/users/User.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/view/user/AdminMenu.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/model/game/Game.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/view/user/LoginForm.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/controller/UserController.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/view/game/BuyGame.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/model/users/Gamer.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/model/order/Order.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/view/user/DeveloperMenu.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/model/users/Wallet.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/storage/File_Storage.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/model/users/Developer.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/main/Main.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/view/game/CreateGame.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/model/game/Statistic.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/storage/Storage.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/view/error/ErrorDialog.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/view/game/GameRequestAdmin.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/view/game/GameRequestDeveloper.java</file>
+            <file>file:/C:/Users/zviga/OneDrive%20-%20Telkom%20University/Telkom%20University/Pemrograman%20Berorientasi%20Objek/Project%20Ex-Steam/src/view/game/MyGameDeveloper.java</file>
+        </group>
+    </open-files>
+</project-private>
